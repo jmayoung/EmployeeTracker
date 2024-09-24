@@ -19,7 +19,7 @@ const mainMenu = async () => {
     const { choice } = await inquirer.prompt({
         type: 'list',
         name: 'choice',
-        message: 'What would you like to do?',
+        message: 'Choose an option:',
         choices: [
             'View all departments',
             'View all roles',
