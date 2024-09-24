@@ -1,4 +1,4 @@
-# Module 10 Challenge 
+# Module 10 Challenge - Employee Tracker
 
 ## Description
 This challenge was to create an employee tracker to handle employee information for a business. It is an interactive application that allows the user to view current employees, departments, and roles within a business. In the application, the user can also add new employees, roles, or departments. Lastly, they get the option to change employee roles if they move to a different department or role. The application utilizes PostgreSQL and inquirer to create an easy-to-use application for HR or managers to view employee information and update it if needed. Demonstration of the application: https://drive.google.com/file/d/1PIAbNfqDRJobT_kX6RuI5Bm34YYJX7BZ/view?usp=sharing
